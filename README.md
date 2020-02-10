@@ -1,6 +1,5 @@
 
 
-
 <h2 align="center">Java 思维导图 </h2>
 
 ## 目录
@@ -10,11 +9,12 @@
 ##### 1、[Java 核心知识(基础)](https://www.edrawsoft.cn/viewer/public/s/be149540490870)
 ##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502)
 ##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150)
-##### 4、[多线程进阶(二)](https://www.edrawsoft.cn/viewer/public/s/81428104981516)
+
 
 ###  Design Patterns
 
 ##### 1、[设计模式原则](https://www.edrawsoft.cn/viewer/public/s/0d01f130949915)
+##### 2、[常用设计模式](https://www.edrawsoft.cn/viewer/public/s/157ec263101331)
 
 ### Spring 应用
 
@@ -37,6 +37,7 @@
 ##### 3、[jvm 内存区域](https://www.edrawsoft.cn/viewer/public/s/d96d2620707340)
 ##### 4、[jvm 垃圾收集算法](https://www.edrawsoft.cn/viewer/public/s/f233e682411599)
 ##### 5、[jvm 垃圾收集器](https://www.edrawsoft.cn/viewer/public/s/5610e392246446)
+##### 6、[调优实战](https://www.edrawsoft.cn/viewer/public/s/a48c7616160494)
 
 ### Docker
 
